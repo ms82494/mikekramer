@@ -16,3 +16,4 @@ https://seaborn.pydata.org/generated/seaborn.displot.html | seaborn.displot — 
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.diff.html | pandas.DataFrame.diff — pandas 1.4.4 documentation
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.triang.html | scipy.stats.triang — SciPy v1.9.1 Manual
 
+Do CTAs
